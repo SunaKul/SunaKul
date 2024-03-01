@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SunaKul
 - 👀 I’m interested in Kotlin and Flutter
 - 🌱 I’m currently learning .Net CORE and Angular
-- 💞️ I’m looking to collaborate on people who are interested in  mobile/web applications
+- 💞️ I’m looking to collaborate with people who are interested in  mobile/web applications
 - 😄 Pronouns: She
 - ⚡ Fun fact: I don't have skull.
 
