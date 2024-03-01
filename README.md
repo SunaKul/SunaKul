@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SunaKul
+- 👋 Hi, I’m @SunaKul and currently junior in Information Systems and Technologies at Bilkent University.
 - 👀 I’m interested in Kotlin and Flutter
 - 🌱 I’m currently learning .Net CORE and Angular
 - 💞️ I’m looking to collaborate with people who are interested in  mobile/web applications
